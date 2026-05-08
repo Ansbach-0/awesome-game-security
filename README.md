@@ -35,6 +35,9 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill <skill-n
 | `awesome-game-security-overview` | Repository taxonomy, category mapping, contribution guidance, and navigation across offensive and defensive game-security topics |
 | `reverse-engineering-tools` | Reverse engineering protected games and anti-cheat components across user mode, kernel mode, debuggers, dump analysis, and anti-analysis workflows |
 | `windows-kernel-security` | Windows kernel internals for game security including callbacks, MMVAD, IOCTL paths, DSE, PatchGuard, PiDDBCache, and hostile-driver detection |
+| `cheat-ui-design` | Best practices for cheat and trainer menu design: tab naming conventions, feature grouping, standard feature names (aimbot, anti-aim, ESP, resolver, fake lag), GUI library recommendations for C++ and Rust, and internal vs external overlay architecture |
+| `game-protocol-reversing` | Game network protocol reversing methodology, MITM proxy architecture, Protobuf extraction, encrypted traffic analysis, server emulation, and network-based cheat development |
+| `cheat-security-opsec` | User OPSEC (ban avoidance, HWID hygiene, VM isolation), cheat self-protection (anti-crack, anti-RE, anti-dump), loader/distribution architecture, licensing, per-user builds, watermarking, and secure development practices |
 
 **Example:**
 ```bash
